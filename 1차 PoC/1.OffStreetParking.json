@@ -1,0 +1,112 @@
+﻿{
+   "@context": [
+      "http://uri.etsi.org/ngsi-ld/core-context.jsonld",
+      "http://datahub.kr/parking.jsonld"
+   ],
+   "id": "urn:datahub:OffStreetParking:yatap_01",
+   "type": "OffStreetParking",
+   "createdAt": "2018-11-15T20:10:00",
+   "modifiedAt": "2018-11-15T20:10:00",
+   "name": {
+      "type": "Property",
+      "value": "yatap_01"
+   },
+   "location": {
+      "type": "GeoProperty",
+      "value": {
+         "type": "Point",
+         "coordinates": [
+            127.1293735,
+            37.4114423
+         ]
+      }
+   },
+   "address": {
+      "type": "Property",
+      "value": {
+         "addressCountry": "KR",
+         "addressRegion": "Gyeonggi-do",
+         "addressLocality": "Seongnam-si",
+         "streetAddress": "8th Seungin-ro",
+         "addressTown": "Yatap-dong"
+      }
+   },
+   "locationTag": {
+      "type": "Property",
+      "value": "commercial"
+   },
+   "category": {
+      "type": "Property",
+      "value": [
+         "public",
+         "feeCharged"
+      ]
+   },
+   "paymentAccepted": {
+      "type": "Property",
+      "value": [
+         "Cash",
+         "Credit Card"
+      ]
+   },
+   "priceRate": {
+      "type": "Property",
+      "value": "최초 30분 무료 free, 이후 10분당 500원"
+   },
+   "priceCurrency": {
+      "type": "Property",
+      "value": "KRW"
+   },
+   "image": {
+      "type": "Property",
+      "value": "http://developers.iotocean.org/photosave/ytLot1pics"
+   },
+   "totalSpotNumber": {
+      "type": "Property",
+      "value": 110
+   },
+   "availableSpotNumber": {
+      "type": "Property",
+      "value": 40,
+      "observedAt": "2018-11-15T20:09:55"
+   },
+   "maximumAllowedHeight": {
+      "type": "Property",
+      "value": 2.2
+   },
+   "openingHours": {
+      "type": "Property",
+      "value": [
+         "Mo-Su 00:00-24:00"
+      ]
+   },
+   "contactPoint": {
+      "type": "Property",
+      "value": {
+         "telephone": "031-000-0000",
+         "email": "parking@seongnam.kr",
+         "contactType": "City-hall"
+      }
+   },
+   "refParkingSpots": {
+      "type": "Property",
+      "value": [
+         "urn:datahub:ParkingSpot:yatap_540",
+         "urn:datahub:ParkingSpot:yatap_541"
+      ]
+   },
+   "congestionIndexPrediction": {
+      "type": "Property",
+      "value": [
+         {
+            "index": 2,
+            "predictedAt": "2019-06-14T11:00:00"
+         },
+         {
+            "index": 5,
+            "predictedAt": "2019-06-14T12:00:00"
+         }
+      ],
+      "observedAt": "2018-11-15T20:09:55"
+   }
+}

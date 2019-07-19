@@ -1,0 +1,46 @@
+﻿{
+   "@context": [
+      "http://uri.etsi.org/ngsi-ld/core-context.jsonld",
+      "http://datahub.kr/weatherobserved.jsonld"
+   ],
+   "id": "urn:datahub:WeatherObserved:6831",
+   "type": "WeatherObserved",
+   "createdAt": "2018-11-15T20:10:00",
+   "modifiedAt": "2018-11-15T20:10:00",
+   "location": {
+      "type": "GeoProperty",
+      "value": {
+         "type": "Point",
+         "coordinates": [
+            127.1293735,
+            37.4114423
+         ]
+      },
+      "observedAt": "2018-11-15T20:09:55"
+   },
+   "address": {
+      "type": "Property",
+      "value": {
+         "addressCountry": "KR",
+         "addressRegion": "Gyeonggi-do",
+         "addressLocality": "Seongnam-si",
+         "streetAddress": "8th Seungin-ro",
+         "addressTown": "Yatap-dong"
+      }
+   },
+   "weatherObservation": {
+      "type": "Property",
+      "value": {
+         "temperature": 10.2,
+         "windSpeed": 0.3,
+         "humidity": 68,
+         "rainfall": 0.2,
+         "hourlyRainfall": 2.5,
+         "snowfall": 0.2,
+         "visibility": 3000,
+         "weatherType": "clear",
+         "observedAt": "2018-11-15T20:09:55"
+      },
+      "observedAt": "2018-11-15T20:09:55"
+   }
+}
