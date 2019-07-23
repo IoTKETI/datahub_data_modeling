@@ -35,18 +35,27 @@
          "co": 0.8,
          "o3": 0.028,
          "no2": 0.077,
-         "pm10": 53,
-         "pm25": 42
+         "pm10": 13,
+         "pm25": 8
       },
       "observedAt": "2018-11-15T20:09:55"
    },
-   "airQualityIndex": {
+   "airQualityIndexObservation": {
       "type": "Property",
       "value": {
-         "index": 20,
-         "description": "좋음",
-         "indexRef": "https://www.airkorea.or.kr/khaiInfo"
+         "totalIndex": 20,
+         "totalCategory": "좋음",
+         "so2Category": "좋음",
+         "coCategory": "좋음",
+         "o3Category": "좋음",
+         "no2Category": "좋음",
+         "pm10Category": "좋음",
+         "pm25Category": "좋음"
       },
       "observedAt": "2018-11-15T20:09:55"
+   },
+   "indexRef": {
+      "type": "Property",
+      "value": "https://www.airkorea.or.kr/web/khaiInfo?pMENU_NO=129"
    }
 }

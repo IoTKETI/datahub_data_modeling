@@ -32,24 +32,26 @@
       "value": [
          {
             "temperature": 10.1,
+            "lowestTemperature": -3.0,
+            "highestTemperature": 7.0,
             "windSpeed": 0.2,
             "humidity": 68,
             "rainfall": 10,
-            "lowestTemperature": -3.0,
-            "highestTemperature": 7.0,
-            "feelsLikeTemperature": 25,
-            "weatherType": "clear",
+            "rainfallProbability": 60,
+            "rainType": "비",
+            "snowfall": 0,
             "predictedAt": "2019-06-08T06:00:00"
          },
          {
             "temperature": 14.1,
+            "lowestTemperature": -3.0,
+            "highestTemperature": 7.0,
             "windSpeed": 0.3,
             "humidity": 65,
             "rainfall": 20,
-            "lowestTemperature": -3.0,
-            "highestTemperature": 7.0,
-            "feelsLikeTemperature": 25,
-            "weatherType": "clear",
+            "rainfallProbability": 60,
+            "rainType": "비",
+            "snowfall": 0,
             "predictedAt": "2019-06-08T09:00:00"
          }
       ],
