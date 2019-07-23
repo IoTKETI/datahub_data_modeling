@@ -38,8 +38,7 @@
          "hourlyRainfall": 2.5,
          "rainType": "비",
          "snowfall": 0.2,
-         "visibility": 3000,
-         "observedAt": "2018-11-15T20:09:55"
+         "visibility": 3000
       },
       "observedAt": "2018-11-15T20:09:55"
    }
