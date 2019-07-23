@@ -88,6 +88,12 @@
          "contactType": "City-hall"
       }
    },
+   "status": {
+      "type": "Property",
+      "value": [
+         "open", "spaceAvailable"
+      ]
+   },
    "refParkingSpots": {
       "type": "Property",
       "value": [
