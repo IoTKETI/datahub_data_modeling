@@ -1,7 +1,7 @@
 ﻿{
    "@context": [
       "http://uri.etsi.org/ngsi-ld/core-context.jsonld",
-      "http://datahub.kr/weatherobserved.jsonld"
+      "http://cityhub.kr/ngsi-ld/weather.jsonld"
    ],
    "id": "urn:datahub:WeatherObserved:6831",
    "type": "WeatherObserved",

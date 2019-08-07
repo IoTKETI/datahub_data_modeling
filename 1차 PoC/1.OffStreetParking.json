@@ -1,7 +1,7 @@
 ﻿{
    "@context": [
       "http://uri.etsi.org/ngsi-ld/core-context.jsonld",
-      "http://datahub.kr/parking.jsonld"
+      "http://cityhub.kr/ngsi-ld/parking.jsonld"
    ],
    "id": "urn:datahub:OffStreetParking:yatap_01",
    "type": "OffStreetParking",

@@ -1,7 +1,7 @@
 ﻿{
    "@context": [
       "http://uri.etsi.org/ngsi-ld/core-context.jsonld",
-      "http://datahub.kr/parkingspot.jsonld"
+      "http://cityhub.kr/ngsi-ld/parking.jsonld"
    ],
    "id": "urn:datahub:ParkingSpot:yatap_540",
    "type": "ParkingSpot",

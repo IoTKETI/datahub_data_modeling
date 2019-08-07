@@ -1,7 +1,7 @@
 ﻿{
    "@context": [
       "http://uri.etsi.org/ngsi-ld/core-context.jsonld",
-      "http://datahub.kr/weatherforecast.jsonld"
+      "http://cityhub.kr/ngsi-ld/weather.jsonld"
    ],
    "id": "urn:datahub:WeatherForecast:6279",
    "type": "WeatherForecast",
