@@ -5,8 +5,8 @@
    ],
    "id": "urn:datahub:AirQualityObserved:6378",
    "type": "AirQualityObserved",
-   "createdAt": "2018-11-15T20:10:00",
-   "modifiedAt": "2018-11-15T20:10:00",
+   "createdAt": "2018-11-15T20:10:00,000Z",
+   "modifiedAt": "2018-11-15T20:10:00,000Z",
    "location": {
       "type": "GeoProperty",
       "value": {
@@ -16,7 +16,7 @@
             37.4114423
          ]
       },
-      "observedAt": "2018-11-15T20:09:55"
+      "observedAt": "2018-11-15T20:09:55,000Z"
    },
    "address": {
       "type": "Property",
@@ -38,7 +38,7 @@
          "pm10": 13,
          "pm25": 8
       },
-      "observedAt": "2018-11-15T20:09:55"
+      "observedAt": "2018-11-15T20:09:55,000Z"
    },
    "airQualityIndexObservation": {
       "type": "Property",
@@ -52,7 +52,7 @@
          "pm10Category": "좋음",
          "pm25Category": "좋음"
       },
-      "observedAt": "2018-11-15T20:09:55"
+      "observedAt": "2018-11-15T20:09:55,000Z"
    },
    "indexRef": {
       "type": "Property",

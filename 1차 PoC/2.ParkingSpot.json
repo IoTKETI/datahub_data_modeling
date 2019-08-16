@@ -5,8 +5,8 @@
    ],
    "id": "urn:datahub:ParkingSpot:yatap_540",
    "type": "ParkingSpot",
-   "createdAt": "2018-11-15T20:10:00",
-   "modifiedAt": "2018-11-15T20:10:00",
+   "createdAt": "2018-11-15T20:10:00,000Z",
+   "modifiedAt": "2018-11-15T20:10:00,000Z",
    "name": {
       "type": "Property",
       "value": "spot_001"
@@ -48,7 +48,7 @@
    "status": {
       "type": "Property",
       "value": "free",
-      "observedAt": "2018-11-15T20:09:55"
+      "observedAt": "2018-11-15T20:09:55,000Z"
    },
    "refParkingLot": {
       "type": "Property",
