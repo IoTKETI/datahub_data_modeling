@@ -5,8 +5,8 @@
    ],
    "id": "urn:datahub:OffStreetParking:yatap_01",
    "type": "OffStreetParking",
-   "createdAt": "2018-11-15T20:10:00,000Z",
-   "modifiedAt": "2018-11-15T20:10:00,000Z",
+   "createdAt": "2018-11-15T20:10:00,000+09:00",
+   "modifiedAt": "2018-11-15T20:10:00,000+09:00",
    "name": {
       "type": "Property",
       "value": "yatap_01"
@@ -70,7 +70,7 @@
    "availableSpotNumber": {
       "type": "Property",
       "value": 40,
-      "observedAt": "2018-11-15T20:09:55,000Z"
+      "observedAt": "2018-11-15T20:09:55,000+09:00"
    },
    "maximumAllowedHeight": {
       "type": "Property",
@@ -109,13 +109,13 @@
       "value": [
          {
             "index": 2,
-            "predictedAt": "2019-06-14T11:00:00,000Z"
+            "predictedAt": "2019-06-14T11:00:00,000+09:00"
          },
          {
             "index": 5,
-            "predictedAt": "2019-06-14T12:00:00,000Z"
+            "predictedAt": "2019-06-14T12:00:00,000+09:00"
          }
       ],
-      "observedAt": "2018-11-15T20:09:55,000Z"
+      "observedAt": "2018-11-15T20:09:55,000+09:00"
    }
 }
