@@ -61,7 +61,7 @@
    },
    "image": {
       "type": "Property",
-      "value": "http://developers.iotocean.org/photosave/ytLot1pics"
+      "value": "https://raw.githubusercontent.com/IoTKETI/image/master/City_hub_yt_lot_1.jpg"
    },
    "totalSpotNumber": {
       "type": "Property",
